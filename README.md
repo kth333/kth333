@@ -8,8 +8,6 @@
   
 - **Learning:** AI/ML, C++, Go, Rust, Frontend development
   
-- **Interests:** Linux ricing (Hyprland + Arch), rating music & films, hearthstone battlegrounds
-  
 - **Languages:** English, Korean, Mandarin
   
 - **How to reach me:** Discord - kth333
