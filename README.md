@@ -2,6 +2,8 @@
 
 ![68747470733a2f2f692e6962622e636f2f59576a674746342f7070312e706e67](https://github.com/user-attachments/assets/dfa2e55e-be06-4b3a-a005-bcbf148147f0) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3yssqbr8jx942xudp16roq5o2&count=3)
 
+[🐧 Linux kernel contributor](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fba374f)
+
 - **Programming Languages:** Java, Python, JavaScript, C, Lua
   
 - **Experienced with:** Backend development, Docker, CI/CD, AWS, GNU/Linux, Shell scripting, SQL
