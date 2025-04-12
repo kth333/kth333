@@ -8,7 +8,7 @@
   
 - **Experienced with:** Backend development, Docker, CI/CD, AWS, GNU/Linux, Shell scripting, SQL
   
-- **Learning:** AI/ML, C++, Go, Rust
+- **Learning:** AI/ML, C++, Go
   
 - **Languages:** English, Korean, Mandarin
   
