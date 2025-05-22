@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[Linux kernel contributor](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=fba374f)
 <!--
 **kth333/kth333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
